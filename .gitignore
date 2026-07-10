@@ -1,0 +1,9 @@
+# Passwords and Secrets
+config.py
+
+# Database
+clashforces.db
+
+# Python Environment
+venv/
+__pycache__/
